@@ -60,7 +60,7 @@ g++ project_final_sunday_monday_close.cpp -o SmartVillage.exe -lfreeglut -lopeng
 ## Project Structure
 
 ```
-project_final_sunday_monday_close.cpp   # Single-file source (all rendering + logic)
+main.cpp   # Single-file source (all rendering + logic)
 ```
 
 ## How It Works (Overview)
