@@ -45,7 +45,7 @@ A real-time animated 2D village scenery built with **C++ and OpenGL (GLUT)**. Th
 ### Using MinGW (g++)
 
 ```bash
-g++ project_final_sunday_monday_close.cpp -o SmartVillage.exe -lfreeglut -lopengl32 -lglu32
+g++ main.cpp -o SmartVillage.exe -lfreeglut -lopengl32 -lglu32
 ./SmartVillage.exe
 ```
 
